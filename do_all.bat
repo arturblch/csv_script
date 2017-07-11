@@ -1,0 +1,1 @@
+for %%f in (*.csv) do python py_exel.py %%f
